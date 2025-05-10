@@ -17,6 +17,6 @@ Hey! I’m a first-year B.E. student passionate about OS development, game devlo
 ![](https://github-profile-trophy.vercel.app/?username=EmaadAkhter&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EmaadAkhter&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=EmaadAkhter&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
