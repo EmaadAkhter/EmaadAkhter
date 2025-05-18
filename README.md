@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emaad Akhter Ansari
 ===========================================================================================================================================================================
-Hey! I’m a first-year B.E. student passionate about OS development, game devlopment and IoT. I love diving deep into low-level systems, experimenting with interactive projects, and building cool stuff that blends hardware and software. Always exploring, always learning.<br><br>
+I'm a versatile developer passionate about exploring diverse technological domains, from quantum computing to robotics. With experience across web applications, AI systems, and low-level programming, I enjoy tackling projects of varying complexity to continuously expand my skillset. Currently focusing on innovative solutions that bridge theoretical computer science with practical applications.<br><br>
 
 
 ## 🌐 Socials:
