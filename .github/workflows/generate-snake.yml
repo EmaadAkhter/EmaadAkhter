@@ -18,6 +18,9 @@ jobs:
           github_user_name: EmaadAkhter
           outputs: |
             dist/github-contribution-grid-snake.svg
+          # Add these for a darker grid:
+          color_snake: "#FF61D7"
+          color_grid: "dark" # or use a hex code, e.g., "#22232e"
 
       - name: Push SVG to the output branch
         uses: peaceiris/actions-gh-pages@v4
