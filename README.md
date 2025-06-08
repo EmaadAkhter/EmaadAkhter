@@ -59,7 +59,7 @@ print(f"Current mission: {me.philosophy}")
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fire.png" alt="🔥" width="20" /> Core Languages
+### 🔥 Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -67,7 +67,7 @@ print(f"Current mission: {me.philosophy}")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="20" /> AI & Machine Learning
+### 🧠 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -79,11 +79,11 @@ print(f"Current mission: {me.philosophy}")
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Atom%20Symbol.png" alt="⚛️" width="20" /> Quantum Computing
+### ⚛️ Quantum Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-019639?style=for-the-badge&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="20" /> Web Development
+### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -91,7 +91,7 @@ print(f"Current mission: {me.philosophy}")
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="20" /> Robotics & IoT
+### 🤖 Robotics & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
@@ -103,7 +103,7 @@ print(f"Current mission: {me.philosophy}")
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="25" /> Featured Projects
+## ⭐ Featured Projects
 
 <div align="center">
 
@@ -112,13 +112,13 @@ print(f"Current mission: {me.philosophy}")
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="25" /> Project Showcase
+## 🚀 Project Showcase
 
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|:----------:|:------:|
-| **[🔬 Quantum-Convolutional-Model](https://github.com/EmaadAkhter/Quantum-Convolutional-Model)** | Hybrid QCNN for MNIST digit classification | `Qiskit` `PyTorch` `Quantum ML` | ![Status](https://img.shields.io/badge/May%202025-Active-brightgreen) |
+| **[🔬 Quantum-Convolutional-Model](https://github.com/EmaadAkhter/Quantum-Convolutional-Model)** | Hybrid QCNN for MNIST digit classification | `PennyLane` `PyTorch` `Quantum ML` | ![Status](https://img.shields.io/badge/May%202025-Active-brightgreen) |
 | **[⚖️ Law-GPT](https://github.com/EmaadAkhter/Law-GPT)** | Legal Q&A system with fine-tuned LLM | `Transformers` `Hugging Face` `NLP` | ![Status](https://img.shields.io/badge/May%202025-Active-brightgreen) |
 | **[🎥 P2P Video Transfer](https://github.com/EmaadAkhter/Peer-to-Peer-video-transfer)** | Serverless video sharing via WebRTC | `WebRTC` `WebSockets` `JavaScript` | ![Status](https://img.shields.io/badge/Apr%202025-Complete-blue) |
 | **[🤖 Object Following Robot](https://github.com/EmaadAkhter/Object_following_robot)** | Real-time object detection & tracking | `Ultralytics` `OpenCV` `MQTT` `RPi` | ![Status](https://img.shields.io/badge/Feb%202025-Complete-blue) |
@@ -155,7 +155,7 @@ print(f"Current mission: {me.philosophy}")
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="25" /> Achievements & Trophies
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
@@ -171,7 +171,7 @@ print(f"Current mission: {me.philosophy}")
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" alt="✨" width="25" /> Fun Facts
+## ✨ Fun Facts
 
 <div align="center">
 
@@ -193,11 +193,11 @@ motto: "Every algorithm tells a story, every bug teaches a lesson! 🚀"
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="🐍" width="25" /> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/EmaadAkhter/EmaadAkhter/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/EmaadAkhter/EmaadAkhter/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -205,7 +205,7 @@ motto: "Every algorithm tells a story, every bug teaches a lesson! 🚀"
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkling%20Heart.png" alt="💖" width="25" /> Thanks for visiting my digital space!
+### 💖 Thanks for visiting my digital space!
 
 <img src="https://komarev.com/ghpvc/?username=EmaadAkhter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
 
