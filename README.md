@@ -24,7 +24,6 @@ class EmaadAnsari:
         self.location = "Mumbai, India 🇮🇳"
         self.education = "B.Eng AI & Data Science @ Rizvi College of Engineering"
         self.email = "emdansari@gmail.com"
-        self.phone = "+91 9967629496"
         
         self.current_focus = [
             "Quantum Machine Learning",
