@@ -58,4 +58,10 @@ I'm a versatile developer passionate about exploring diverse technological domai
 | [Collaborative-Search-Recommendder](https://github.com/EmaadAkhter/Collaborative-Search-Recommendder) | <img alt="3/5" src="https://img.shields.io/badge/★★★☆☆-3/5-blue"> | <img alt="3/5" src="https://img.shields.io/badge/★★★☆☆-3/5-purple"> | <img alt="3/5" src="https://img.shields.io/badge/★★★☆☆-3/5-green"> | Web-based collaborative recommendation system. |
 
 ## 🐍 Contribution Snake
-![](https://raw.githubusercontent.com/EmaadAkhter/EmaadAkhter/output/github-contribution-grid-snake.svg)
+[![Contribution Snake](https://raw.githubusercontent.com/EmaadAkhter/EmaadAkhter/output/github-contribution-grid-snake.svg)](https://github.com/EmaadAkhter/EmaadAkhter)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Activity--Snake-%23FFD700?style=for-the-badge&logo=github&labelColor=7D5FFF&color=FF61D7" alt="Snake Badge"/>
+</p>
+
+---
