@@ -4,12 +4,9 @@
 
 I'm a versatile developer passionate about exploring diverse technological domains, from quantum computing to robotics. With experience across web applications, AI systems, and low-level programming, I enjoy tackling projects of varying complexity to continuously expand my skillset. Currently focusing on innovative solutions that bridge theoretical computer science with practical applications.<br><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/space_bonker/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaad-akhter-041a23289/)
-
-
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -30,7 +27,21 @@ I'm a versatile developer passionate about exploring diverse technological domai
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+# 📌 Pinned Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaadAkhter&repo=Quantum-Convolutional-Model&theme=radical)](https://github.com/EmaadAkhter/Quantum-Convolutional-Model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaadAkhter&repo=Law-GPT&theme=radical)](https://github.com/EmaadAkhter/Law-GPT)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EmaadAkhter&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EmaadAkhter&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmaadAkhter&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EmaadAkhter&theme=radical&no-frame=true&no-bg=false&margin-w=-2)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EmaadAkhter&limit=5&theme=radical&&hide_border=true&combine_all_yearly_contributions=true)
 
 # 🚀 Projects Gallery
 
@@ -46,37 +57,5 @@ I'm a versatile developer passionate about exploring diverse technological domai
 | [Raylib_top_down_shooter](https://github.com/EmaadAkhter/Raylib_top_down_shooter) | <img alt="2/5" src="https://img.shields.io/badge/★★☆☆☆-2/5-blue"> | <img alt="3/5" src="https://img.shields.io/badge/★★★☆☆-3/5-purple"> | <img alt="2/5" src="https://img.shields.io/badge/★★☆☆☆-2/5-green"> | 2D top-down shooter game in C using Raylib. |
 | [Collaborative-Search-Recommendder](https://github.com/EmaadAkhter/Collaborative-Search-Recommendder) | <img alt="3/5" src="https://img.shields.io/badge/★★★☆☆-3/5-blue"> | <img alt="3/5" src="https://img.shields.io/badge/★★★☆☆-3/5-purple"> | <img alt="3/5" src="https://img.shields.io/badge/★★★☆☆-3/5-green"> | Web-based collaborative recommendation system. |
 
-
-
-# 📌 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaadAkhter&repo=Quantum-Convolutional-Model&theme=radical)](https://github.com/EmaadAkhter/Quantum-Convolutional-Model)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaadAkhter&repo=Law-GPT&theme=radical)](https://github.com/EmaadAkhter/Law-GPT)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmaadAkhter&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EmaadAkhter&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmaadAkhter&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EmaadAkhter&theme=radical&no-frame=true&no-bg=false&margin-w=-2)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EmaadAkhter&limit=5&theme=radical&&hide_border=true&combine_all_yearly_contributions=true)
-
-
-
 ## 🐍 Contribution Snake
 ![](https://raw.githubusercontent.com/EmaadAkhter/EmaadAkhter/output/github-contribution-grid-snake.svg)
-
-
-
-## 💡 Dev Quote of the Day
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
