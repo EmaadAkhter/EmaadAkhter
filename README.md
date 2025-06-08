@@ -73,7 +73,7 @@ I'm a versatile developer passionate about exploring diverse technological domai
 
 
 ## 🐍 Contribution Snake
-![](https://github.com/EmaadAkhter/EmaadAkhter/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/EmaadAkhter/EmaadAkhter/output/github-contribution-grid-snake.svg)
 
 
 
