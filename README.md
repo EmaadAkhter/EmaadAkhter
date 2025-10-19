@@ -45,7 +45,7 @@ specialties:
   - Full-Stack (Flask, React, Go, WebRTC)
   - Robotics (YOLOv8 + Raspberry Pi)
   - Blockchain (Built one from scratch to understand it)
-philosophy: "Ship it, measure it, learn from it"
+philosophy: "Grip it and Ship it"
 fun_fact: "My quantum random forest is 500x slower but technically uses REAL randomness"
 ```
 
