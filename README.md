@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EmaadAkhter/EmaadAkhter/main/banner.gif" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/EmaadAkhter/EmaadAkhter/main/banner.gif" width="480" alt="banner"/>
 <!-- ↑ Upload a dark-themed animated GIF to your EmaadAkhter/EmaadAkhter repo as banner.gif -->
 <!-- Good sources: giphy.com, or generate a custom terminal/matrix/quantum circuit animation -->
 
@@ -46,6 +46,10 @@
   <circle cx="36" cy="154" r="3" fill="#22d3ee" opacity="0.5"/>
   <circle cx="804" cy="154" r="3" fill="#a78bfa" opacity="0.5"/>
 </svg>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+Backend+Engineer+@+Peblo;Quantum+ML+Researcher+@+MergeInfinity;Benchmarks+the+hardware,+not+the+hype;FastAPI,+TypeScript,+Rust,+PennyLane&font=Fira+Code&color=a78bfa&center=true&vCenter=true&width=620&height=70&duration=3500&pause=600" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -220,27 +224,19 @@ Production MCP server on Cloudflare Workers — WorkOS AuthKit OAuth, full Googl
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=a78bfa)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=38bdf8)
-![Rust](https://img.shields.io/badge/Rust-0a0a0f?style=for-the-badge&logo=rust&logoColor=f97316)
-![Go](https://img.shields.io/badge/Go-0a0a0f?style=for-the-badge&logo=go&logoColor=00ADD8)
-![C++](https://img.shields.io/badge/C++-0a0a0f?style=for-the-badge&logo=cplusplus&logoColor=38bdf8)
+<img src="https://skillicons.dev/icons?i=python,typescript,rust,go,cpp" alt="Languages"/>
 
 ### AI & Quantum
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=22d3ee)
-![PennyLane](https://img.shields.io/badge/PennyLane-0a0a0f?style=for-the-badge&logo=atom&logoColor=a78bfa)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Transformers](https://img.shields.io/badge/HuggingFace-0a0a0f?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0f?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+<img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,opencv" alt="AI & Quantum"/>
+<br/>
+![PennyLane](https://img.shields.io/badge/PennyLane-0a0a0f?style=flat-square&logo=atom&logoColor=a78bfa)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logo=huggingface&logoColor=FFD21E)
 
 ### Web & Infra
-![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=2496ED)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Qdrant](https://img.shields.io/badge/Qdrant-0a0a0f?style=for-the-badge&logo=buffer&logoColor=a78bfa)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-0a0a0f?style=for-the-badge&logo=cloudflare&logoColor=F48120)
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,mongodb,git,github,wasm" alt="Web & Infra"/>
+<br/>
+![Qdrant](https://img.shields.io/badge/Qdrant-0a0a0f?style=flat-square&logo=buffer&logoColor=a78bfa)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-0a0a0f?style=flat-square&logo=cloudflare&logoColor=F48120)
 
 </div>
 
@@ -254,7 +250,15 @@ Production MCP server on Cloudflare Workers — WorkOS AuthKit OAuth, full Googl
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=EmaadAkhter&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=EmaadAkhter&custom_title=Contribution+Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=EmaadAkhter&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=5" alt="GitHub Trophies"/>
 </div>
 
 ---
