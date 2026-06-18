@@ -172,8 +172,8 @@ Production MCP server on Cloudflare Workers — WorkOS AuthKit OAuth, full Googl
 </td>
 <td width="50%" valign="top">
 
-**[Breakout — Bevy + WASM](https://github.com/EmaadAkhter/bevy-breakout)**
-Breakout game in Rust with Bevy ECS, compiled to WebAssembly and playable in the browser. Mouse-driven paddle, gravity physics, brick collision.
+**[Pong 2D — Bevy + WASM](https://github.com/EmaadAkhter/pong_2d_rust)**
+2D Pong game in Rust with Bevy ECS, compiled to WebAssembly and playable in the browser. Mouse-driven paddle, gravity physics, ball collision.
 
 `Rust` · `Bevy ECS` · `WebAssembly` · `wasm-bindgen`
 
