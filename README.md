@@ -223,20 +223,20 @@ Production MCP server on Cloudflare Workers — WorkOS AuthKit OAuth, full Googl
 
 <div align="center">
 
-### Languages
+<h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=python,typescript,rust,go,cpp" alt="Languages"/>
 
-### AI & Quantum
+<h3>AI & Quantum</h3>
 <img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,opencv" alt="AI & Quantum"/>
 <br/>
-![PennyLane](https://img.shields.io/badge/PennyLane-0a0a0f?style=flat-square&logo=atom&logoColor=a78bfa)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logo=huggingface&logoColor=FFD21E)
+<img src="https://img.shields.io/badge/PennyLane-0a0a0f?style=flat-square&logo=atom&logoColor=a78bfa" alt="PennyLane"/>
+<img src="https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="HuggingFace"/>
 
-### Web & Infra
+<h3>Web & Infra</h3>
 <img src="https://skillicons.dev/icons?i=react,nodejs,docker,mongodb,git,github,wasm" alt="Web & Infra"/>
 <br/>
-![Qdrant](https://img.shields.io/badge/Qdrant-0a0a0f?style=flat-square&logo=buffer&logoColor=a78bfa)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-0a0a0f?style=flat-square&logo=cloudflare&logoColor=F48120)
+<img src="https://img.shields.io/badge/Qdrant-0a0a0f?style=flat-square&logo=buffer&logoColor=a78bfa" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/Cloudflare_Workers-0a0a0f?style=flat-square&logo=cloudflare&logoColor=F48120" alt="Cloudflare Workers"/>
 
 </div>
 
