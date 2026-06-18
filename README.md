@@ -112,8 +112,8 @@ philosophy: "Real hardware. Honest benchmarks. Ship it."
 
 | Paper | Venue | Status |
 |:------|:------|:-------|
-| **Decoherence Before Advantage** — Grover's search vs HNSW/IVF-PQ on IBM Heron r2 hardware | IEEE Transactions on Quantum Engineering | In preparation · Zenodo DOI pending |
-| **The TinyML Frontier** — MicroPlasticNet: micro-CNN plastic classification on Raspberry Pi Pico | ResearchGate | Published |
+| **[Empirical Benchmarking of Grover's Algorithm Against Classical ANN Search on IBM Heron r2](https://www.researchgate.net/publication/403977247_Empirical_Benchmarking_of_Grover's_Algorithm_Against_Classical_ANN_Search_on_IBM_Heron_r2)** — Grover's search vs HNSW/IVF-PQ on real IBM Heron r2 hardware | ResearchGate | Published |
+| **[The TinyML Frontier — Escaping the Accuracy Cliff with Micro-Architectures and Knowledge Distillation](https://www.researchgate.net/publication/403224607_The_TinyML_Frontier_Escaping_the_Accuracy_Cliff_with_Micro-Architectures_and_Knowledge_Distillation)** — Edge ML waste classification powering TrashScan on ESP32-S3 | ResearchGate | Published |
 
 </div>
 
